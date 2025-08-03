@@ -12,12 +12,19 @@ First, the exploratory data analysis (EDA) is performed to show the data in the 
 
 Finally, some decisive conclusions are given.
 
-**Libraries used**: Pandas, Matplotlib, NumPy, SciPy.
+🛠️**Libraries used**: Pandas, Matplotlib, NumPy, SciPy.
 
-The Jupyter Notebook is in src/project5.ipynb.
+The Jupyter Notebook is in scripts/project5.ipynb.
 
-## How to use
+## 🚀 Installation
 1. Clone this repository:
 ```
-jjjjjj
+git clone https://github.com/arteaga7/Project5.git
 ```
+2. Set virtual environment and install dependencies:
+```
+python3 -m venv env
+source env/bin/activate
+pip3 install -r requirements.txt
+```
+3. Run Jupyter Notebook in scripts/project5.ipynb.
