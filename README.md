@@ -3,7 +3,7 @@ This project analyzes the information of two different telecommunication plans (
 
 **Objective:** To clean data to perform hypotheses tests (Levene and T tests) to make decisive decisions.
 
-### Steps
+## Overview
 First, the exploratory data analysis (EDA) is performed to show the data in the non-cleaned datasets. Second, the data preprocessing is made, which consist of filling null values, dropping duplicates, verifying if data format is correct and processing the outliers. Third, the formal Levene and T tests are performed to determine if the following hypotheses are true:
 
 • Ultimate Plan earnings <= Surf Plan earnings
@@ -14,4 +14,10 @@ Finally, some decisive conclusions are given.
 
 **Libraries used**: Pandas, Matplotlib, NumPy, SciPy.
 
-The jupyter notebook is in src/project5.ipynb.
+The Jupyter Notebook is in src/project5.ipynb.
+
+## How to use
+1. Clone this repository:
+```
+jjjjjj
+```
